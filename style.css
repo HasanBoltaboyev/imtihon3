@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bv{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    
+
+
+}
+footer{
+     background-color: #272C3D;
+    width: 1523px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around ;
+    gap: 40px;
+}
+
+.bm{
+   
+  display: flex;
+    width: 890px;
+    height: 298px;
+}
+.nnn{
+ display: flex;
+    align-items: center;
+    justify-content: center;
+      background-color: #212123;
+      flex-wrap: wrap;
+      width: 1389px;
+      height: 928px;
+      margin-left: 80px;
+}
+p{
+    color: azure;
+}
+
+h3{
+color: azure;
+font-family: quantico;
+text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: azure;
+}
+nav{
+    font-family: quantico;
+    display: flex;
+    gap: 20px;
+}
+a:hover{
+    color: orange;
+}
+header{
+    background-color: #272C3D;
+    width: 1523px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around ;
+    gap: 40px;
+}
+.nbm{
+    background-image: url(./Bg\ \(2\).png);
+
+}
+div{
+        Width:
+1523px;
+Height:
+554px;
+}
+input{
+    background-color: #404864;
+
+}
+select{
+    background-color: rgb(38, 37, 37);
+    color: azure;
+}
+.mmm{
+    display: flex;
+    width: 165px;
+    height: 30px;
+    gap: 20px;
+}
+main{
+    background-color: black;
+   
+}
+
